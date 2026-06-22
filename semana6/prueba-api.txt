@@ -1,0 +1,9 @@
+Explicacion de la respuesta del servidor (POST /registro):
+
+Cuando el cliente envia una peticion POST a la ruta http://localhost:3000/registro con un JSON que contiene 'nombre' y 'mensaje', el middleware express.json() procesa el cuerpo de la solicitud.
+El servidor lee estos datos mediante req.body y devuelve un objeto JSON confirmando la recepcion con la estructura:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}

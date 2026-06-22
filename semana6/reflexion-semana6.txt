@@ -1,0 +1,9 @@
+Reflexion de la semana 6:
+Recibir la informacion de forma estructurada a traves de formatos como JSON es crucial para cualquier plataforma tecnologica moderna.
+Cuando los ciudadanos envian reportes de forma libre, los datos pueden dispersarse o volverse ambiguos.
+Al utilizar herramientas como req.body en Express, forzamos a que la informacion llegue clasificada bajo campos especificos como tipo o descripcion.
+Esto facilita enormemente la automatizacion de procesos y el filtrado prioritario de incidencias comunitarias.
+Los sistemas informaticos pueden ordenar las urgencias de manera automatica sin intervencion humana manual.
+De este modo, se optimizan los tiempos de respuesta por parte de las autoridades o coordinadores locales.
+La tecnologia estructurada reduce la brecha entre el problema ciudadano y la ejecucion de su solucion practica.
+Contar con APIs bien organizadas es el nucleo para transformar las quejas aisladas en bases de datos accionables y transparentes.
