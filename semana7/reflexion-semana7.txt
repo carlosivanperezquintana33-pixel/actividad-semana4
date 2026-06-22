@@ -1,0 +1,9 @@
+Reflexion de la semana 7:
+La implementacion de sistemas donde las comunidades puedan registrar y consultar reportes es fundamental para fortalecer la transparencia local.
+Una plataforma tecnologica que permite tanto la entrada (POST) como la salida (GET) de datos crea un canal bidireccional de comunicacion.
+Los ciudadanos no solo notifican de manera aislada los problemas cotidianos sino que pueden auditar las incidencias existentes.
+Guardar la informacion en arreglos estructurados simula el comportamiento de bases de datos que ordenan el flujo informativo.
+Esto evita la duplicidad de reportes sobre una misma problematica agilizando las labores de mantenimiento o atencion.
+Las herramientas de codigo abierto analizadas reducen radicalmente los costos de desarrollo de estas soluciones sociales.
+Permiten la creacion de tableros de control comunitarios donde la informacion es publica y de libre acceso.
+La organizacion digital de incidencias transforma la gestion de reclamos en un proceso colaborativo y profundamente eficiente.
