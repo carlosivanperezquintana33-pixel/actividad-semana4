@@ -1,0 +1,7 @@
+Reflexión de la semana:
+El uso de Node.js y Express permite desarrollar servidores web de forma rápida y eficiente utilizando JavaScript.
+Estas herramientas de código abierto son fundamentales en la actualidad porque democratizan el acceso a la tecnología.
+Cualquier persona con una computadora o un celular puede crear aplicaciones útiles para su comunidad sin pagar licencias costosas.
+Además, la gran comunidad que respalda estos proyectos asegura que se mantengan actualizados, seguros y con mucha documentación.
+Aprender a montar un servidor básico es el primer paso para entender cómo funciona la web por detrás.
+Esto nos da la capacidad de diseñar soluciones tecnológicas propias enfocadas en iniciativas ciudadanas y procesos participativos.
