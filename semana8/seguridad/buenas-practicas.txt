@@ -1,0 +1,3 @@
+1. Proteger contrasenias.
+2. No compartir credenciales.
+3. Mantener software actualizado.

@@ -1,0 +1,9 @@
+Reflexion de la semana 8:
+La seguridad digital es un pilar indispensable para el sostenimiento de las plataformas tecnologicas comunitarias.
+Cuando los ciudadanos participan activamente y comparten reportes, depositan su confianza e informacion personal en el sistema.
+Si el servidor carece de medidas basicas de proteccion, se vulnera la privacidad y se expone a la comunidad a riesgos digitales.
+Un ataque informatico o una filtracion de credenciales podria desmantelar por completo un proceso organizativo local.
+Por ello, asegurar los endpoints y restringir los accesos no es solo una tarea tecnica, sino un compromiso etico.
+El software de codigo abierto, como Linux, otorga las herramientas necesarias para auditar y fortificar la infraestructura de forma transparente.
+Entender el funcionamiento de la terminal permite a los administradores reaccionar rapido ante incidentes en tiempo real.
+La seguridad democratizada garantiza espacios de participacion ciudadana mas confiables, estables y verdaderamente protegidos.

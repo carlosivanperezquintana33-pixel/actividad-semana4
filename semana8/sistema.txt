@@ -1,0 +1,7 @@
+Explicacion de comandos de Linux:
+
+1. 'uname -a': Muestra informacion detallada del sistema operativo, incluyendo el nombre del kernel, la arquitectura del procesador (como aarch64 en celulares) y la version del sistema.
+2. 'whoami': Muestra el nombre del usuario actual que esta ejecutando la sesion en la terminal (en Termux suele ser un identificador automatico).
+
+Utilidad en servidores:
+Conocer estos datos es indispensable para un administrador de servidores porque permite saber si el sistema es compatible con ciertos programas, identificar privilegios de ejecucion actuales y detectar que parches de seguridad o actualizaciones de kernel deben aplicarse.
