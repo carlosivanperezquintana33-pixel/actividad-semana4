@@ -1,0 +1,9 @@
+Reflexion de la semana 9:
+La estabilidad y la seguridad en los servidores son los pilares que sostienen la confianza ciudadana en las plataformas comunitarias.
+Cuando un servicio digital sufre caidas constantes o pierde datos, los usuarios abandonan los procesos participativos por frustracion.
+Garantizar que un servidor funcione de forma continua permite que las alertas tempranas o los reportes se procesen oportunamente.
+El uso de herramientas de monitoreo y la correcta implementacion de logs facilitan la identificacion rapida de fallas en el codigo.
+Esto es crucial en proyectos sociales autogestionados donde los recursos humanos y tecnicos suelen ser limitados.
+Ademas, un entorno seguro previene la manipulacion externa de la informacion recolectada o el robo de identidades locales.
+Entender como interactuan el sistema operativo, los puertos y Node.js nos da el control total sobre la infraestructura digital.
+La tecnologia estable empodera a las comunidades, resguarda el tejido organizativo y genera herramientas de participacion confiables.

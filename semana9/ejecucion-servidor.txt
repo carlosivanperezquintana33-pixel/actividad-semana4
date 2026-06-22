@@ -1,0 +1,10 @@
+Registro de ejecucion del servidor:
+
+1. Que ocurre cuando ejecutas node server.js:
+El entorno de Node.js carga el script 'server.js' en la memoria del dispositivo y pone a la aplicacion en un estado de escucha permanente de peticiones de red.
+
+2. Que mensaje aparece en la terminal:
+Aparece el texto explicito establecido en el console.log: 'Servidor ejecutandose en puerto 3000'.
+
+3. Que sucede cuando visitas la ruta /estado:
+El servidor intercepta la peticion GET, procesa la respuesta usando el metodo res.json() y le devuelve al cliente un objeto estructurado que contiene el estado del servidor y el tipo de servicio.

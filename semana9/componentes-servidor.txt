@@ -1,0 +1,16 @@
+Componentes de un entorno servidor:
+
+1. Sistema operativo:
+Es la base de software que administra directamente el hardware del equipo. Permite la gestion de procesos, la asignacion de memoria y provee la terminal para ejecutar comandos.
+
+2. Node.js:
+Es el entorno de ejecucion que permite procesar codigo de JavaScript del lado del servidor, manejando de forma eficiente multiples peticiones asincronas de red.
+
+3. Aplicacion server.js:
+Es el archivo de codigo fuente desarrollado por nosotros que define la logica del negocio, las rutas de acceso (endpoints) y las respuestas de la plataforma.
+
+4. Puerto:
+Es una interfaz virtual o canal especifico (como el 3000) por el cual el servidor escucha y encauza las solicitudes entrantes que llegan desde la red.
+
+5. Logs:
+Son archivos de texto o registros historicos automatizados que guardan los eventos, accesos, advertencias y errores que ocurren durante la operacion del servidor.
