@@ -1,0 +1,5 @@
+Pruebas de rutas en el navegador:
+
+1. En http://localhost:3000 -> El servidor responde con el texto 'Servidor activo'. Es la ruta raiz.
+2. En http://localhost:3000/saludo -> El servidor responde con el mensaje 'Hola comunidad', mostrando un endpoint estatico.
+3. En http://localhost:3000/mensaje/juan -> El servidor lee el parametro ':nombre' de la URL y responde dinamicamente 'Hola juan'.
